@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Elementor Widget / Plugin Developing**
 
-- 🤝 I’m looking for help with [Elementor Widget Developing](https://github.com/Syed18103392/Testimonial-Addon-Elementor)
+- 🤝 I’m looking for help with [Custom-first-wordpress-plugin](https://github.com/Syed18103392/Custom-first-wordpress-plugin)
 
 - 💬 Ask me about **Wordpress,JavaScripts,CSS,HTML**
 
