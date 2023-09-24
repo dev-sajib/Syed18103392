@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed18103392&label=Profile%20views&color=0e75b6&style=flat" alt="syed18103392" /> </p>
 
-- 🔭 I’m currently working on [Elementor Widget Developing](https://github.com/Syed18103392/Testimonial-Addon-Elementor)
+- 🔭 I’m currently working on [WordPress Plugin Development](https://github.com/Syed18103392/Custom-first-wordpress-plugin)
 
-- 🌱 I’m currently learning **Elementor Widget Framework**
+- 🌱 I’m currently learning **Wordpress Plugin Development**
 
 - 👯 I’m looking to collaborate on **Elementor Widget / Plugin Developing**
 
