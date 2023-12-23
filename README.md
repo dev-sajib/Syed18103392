@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed18103392&label=Profile%20views&color=0e75b6&style=flat" alt="syed18103392" /> </p>
 
-- 🔭 I’m currently working on [Custom-first-wordpress-plugin](https://github.com/Syed18103392/Custom-first-wordpress-plugin)
+- 🔭 I’m currently working on [Playwright-Scripts-For-Diviflash-Testing](https://github.com/Syed18103392/Playwright-Scripts-For-Diviflash-Testing)
 
 - 🌱 I’m currently learning **Wordpress Plugin Development**
 
