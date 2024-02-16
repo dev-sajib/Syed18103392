@@ -1,24 +1,24 @@
 
 
 <h1 align="center">Hi 👋, I'm Syed Barekul Islam</h1>
-<h3 align="center">A passionate Wordpress developer from Bangladesh</h3>
+<h3 align="center">A passionate Wordpress developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed18103392&label=Profile%20views&color=0e75b6&style=flat" alt="syed18103392" /> </p>
 
 - 🔭 I’m currently working on [Playwright-Scripts-For-Diviflash-Testing](https://github.com/Syed18103392/Playwright-Scripts-For-Diviflash-Testing)
 
-- 🌱 I’m currently learning **Wordpress Plugin Development**
+- 🌱 I’m currently learning **Playwright**
 
-- 👯 I’m looking to collaborate on **Elementor Widget / Plugin Developing**
+- 👯 I’m looking to collaborate on **Elementor Widget / Plugin Developing / Automation Script Writting**
 
-- 🤝 I’m looking for help with [Custom-first-wordpress-plugin](https://github.com/Syed18103392/Custom-first-wordpress-plugin)
+- 🤝 I’m looking for help with [Playwright-Scripts-For-Diviflash-Testing](https://github.com/Syed18103392/Playwright-Scripts-For-Diviflash-Testing)
 
-- 💬 Ask me about **Wordpress,JavaScripts,CSS,HTML**
+- 💬 Ask me about **Wordpress,JavaScripts,CSS,HTML,Playwright**
 
-- 📫 How to reach me **sajibsagor2014@gmail.com**
+- 📫 How to reach me **admin@portfolio.gutefy.com**
 
-- ⚡ Fun fact **I think i am cool minded, Curious and Clam**
+- ⚡ Fun fact **I think i am logical minded, Curious and Clam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
