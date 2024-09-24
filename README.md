@@ -6,14 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed18103392&label=Profile%20views&color=0e75b6&style=flat" alt="syed18103392" /> </p>
 
-- 🔭 I’m currently working on [Gutefy Social Icons wordpress plugin](https://github.com/Syed18103392/gutefy-social-icons)
+- 🔭 I’m currently working on [Gutefy Social Icons wordpress plugin](https://github.com/dev-sajib/gutefy-social-icons)
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Elementor Widget / Plugin Developing / Automation Script Writting**
 
-- 🤝 I’m looking for help with [Playwright-Scripts-For-Diviflash-Testing](https://github.com/Syed18103392/Playwright-Scripts-For-Diviflash-Testing)
-
+- 🤝 I’m looking for help with [Gutefy Social Icons wordpress plugin](https://github.com/dev-sajib/gutefy-social-icons)
 - 💬 Ask me about **Wordpress,JavaScripts,CSS,HTML,Playwright**
 
 - 📫 How to reach me **admin@portfolio.gutefy.com**
