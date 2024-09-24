@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Gutefy Social Icons wordpress plugin](https://github.com/Syed18103392/gutefy-social-icons)
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Elementor Widget / Plugin Developing / Automation Script Writting**
 
